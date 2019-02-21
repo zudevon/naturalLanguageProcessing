@@ -8,4 +8,4 @@
 <code> pyspellchecker </code>
 
 ##### run 
-<code> python requirements.txt </code>
+<code> >>> python requirements.txt </code>
